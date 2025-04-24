@@ -77,8 +77,6 @@ Various visualizations were created to understand the data better:
 3. **Bar Plots**:
    - Gender and Geography distributions against the Exited variable.
 
-![Sample Visualization](path_to_image.png) *(Insert actual image path)*
-
 ## Conclusion
 
 The analysis revealed several actionable insights:
