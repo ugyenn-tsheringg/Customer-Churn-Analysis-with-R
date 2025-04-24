@@ -101,5 +101,5 @@ To run the code locally, follow these steps:
    source("path_to_your_script.R")
 
 ## Requirements
-R version 4.x.x   
+R version 4.4.3 or later
 Required Libraries: readr, DataExplorer, ggplot2, reshape2
